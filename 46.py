@@ -2,6 +2,8 @@ fr = open('../aaa/data.txt', 'r', encoding='utf-8')
 fw = open('../aaa/output.txt', 'w', encoding='utf-8')
 data = fr.readlines()
 # print(data)
+# print(data)
+# print(data)
 
 hap = 0
 for i in data:
